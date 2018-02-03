@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Course Registration Form</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="sample.css">
+
+
+</head>
+<div>
+    <div class="jumbotron">
+        <h1>Course Registration Application</h1>
+    </div>
+</div>
+
+<div class="container">
+    <div class="page-header">
+        <h3>Search for Classes</h3>
+    </div>
+    <h4>Enter Search Criteria</h4>
+</div>
+<p></p>
+</div>
+<div class="container drawborder">
+    <form class="form-horizontal" action="rwdSearchResultPage.html" method="get">
+        <div class="form-group">
+            <label class="control-label col-sm-4" for="institution">Institution</label>
+            <div class="col-sm-8">
+                <select class="form-control" id="institution">
+                    <option>University of Missouri-Columbia</option>
+                    <option>University of Missouri-Kansas City</option>
+                    <option>University of Missouri-Rolla</option>
+                    <option>University of Missouri-St.Louis</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-4" for="sem">Semester</label>
+            <div class="col-sm-8">
+                <select class="form-control" id="sem" placeholder="Enter semester">
+                    <option>Spring</option>
+                    <option>Summer</option>
+                    <option>Fall</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-4" for="career">Career Option</label>
+            <div class="col-sm-8 ">
+                <select class="form-control" id="career" placeholder="Enter career">
+                    <option>Computer Science</option>
+                    <option>Law</option>
+                    <option>Computer Sci Electrical Engr</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-4" for="level">Level of Education</label>
+            <div class="col-sm-8">
+                <select class="form-control" id="level" placeholder="Enter level">
+                    <option>UnderGraduate</option>
+                    <option>Graduate</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-group buttonalign">
+            <div class="col-sm-offset-2 col-sm-4">
+                <button type="reset" value="Reset" id="button1">Clear</button>
+                <button type="submit" value="Submit" id="button2">Submit</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+</body>
+</html>
