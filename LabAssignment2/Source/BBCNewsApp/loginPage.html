@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login Page</title>
+    <meta charset="UTF-8">
+    <meta name="vieport" content="width=device-width initial-scale=1">
+    <link type="text/css" rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+</head>
+<body>
+<h1 align="center" style="text-align: center;font-style: oblique;color: darkred"><b>Login Details</b></h1>
+<div class="container">
+    <div class = "row">
+        <div class = "col-md-offset-3 col-md-6" ng-controller = "loginpage">
+            <form id = "form1">
+                <div class="form-group" style="color: whitesmoke">
+                    <label>Email: </label>
+                    <input type="email" class="form-control" id="email" placeholder="Email Id" name="email">
+                </div>
+                <br>
+                <div clas="form-group" style="color: whitesmoke">
+                    <label>Password: </label>
+                    <input type="password" class="form-control" id="password" placeholder="password" name="password">
+                </div>
+                <br>
+                <div align="center" style="color: whitesmoke">
+                    <button type="submit" style="color: black" formaction="choice.html">Login</button>
+                    <button type="submit" style="color: black" formaction="signUpPage.html">SignUp</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>

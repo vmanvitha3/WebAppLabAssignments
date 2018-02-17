@@ -1,0 +1,55 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <meta charset="utf8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Tic-Tac-Toe Game</title>
+    <link rel="stylesheet" type="text/css" href="app.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+    <script src="app.js"></script>
+</head>
+
+<body ng-app="app" ng-controller="TicTacToeCtrl">
+<header>
+    <h1 class="title" style="text-align: center;font-style: oblique;color: darkred"> Tic-Tac-Toe </h1>
+</header>
+<div class="tic-tac-toe">
+    <table class="scoreboard">
+        <tr>
+            <td>Player1</td>
+            <td width="30"></td>
+            <td> Player2 </td>
+        </tr>
+        <tr>
+            <td class="score X">
+                {{scores.X}}
+            </td>
+            <td> &nbsp; </td>
+            <td class="score O">
+                {{scores.O}}
+            </td>
+        </tr>
+    </table>
+
+    <div class="board">
+        <table class="drawBoard">
+            <tr ng-repeat="(row_index, row) in dummyArray track by $index">
+                <td ng-repeat="(column_index, column) in dummyArray track by $index" ng-click="mark(row_index, column_index)" class="{{data[row_index+''+column_index]}}">
+                    {{data[row_index+''+column_index]}}
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <button ng-click="init()">Reset</button>
+    <select ng-model="grid_size"
+            ng-options="option.value as option.label for option in grid_options"
+            ng-change="init()">
+    </select>
+</div>
+
+</body>
+
+</html>

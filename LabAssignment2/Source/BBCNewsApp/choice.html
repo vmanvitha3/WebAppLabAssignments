@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choose to display</title>
+    <meta name="vieport" content="width=device-width initial-scale=1">
+    <link type="text/css" rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+</head>
+<body>
+
+<h1 align="center" style="text-align: center;font-style: oblique;color: darkred"><b>Choose How To Search News</b></h1>
+
+<div class="container">
+    <div class = "row">
+        <div class = "col-md-offset-3 col-md-6" ng-controller = "choicepage">
+
+            <form id="idForm">
+                <div clas="form-group" align="center" style="color: whitesmoke">
+                    <input type="radio" onclick="document.getElementById('idForm').action='topic.html'" name="choice" value="topic" style="color: whitesmoke">Search By Topic</input
+                </div>
+                <div clas="form-group" align="center" style="color: whitesmoke">
+                    <input type="radio" onclick="document.getElementById('idForm').action='source.html'" name="choice" value="source" style="color: whitesmoke">Search By Source</input
+                </div>
+                <div clas="form-group" align="center" style="color: whitesmoke">
+                    <input type="radio" onclick="document.getElementById('idForm').action='both.html'" name="choice" value="both" style="color: whitesmoke">Search By Both</input>
+                </div>
+                <br>
+                <div align="center" style="color: whitesmoke">
+                    <button type="submit" style="color: black">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>
