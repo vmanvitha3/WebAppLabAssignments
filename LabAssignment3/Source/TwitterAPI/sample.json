@@ -1,0 +1,598 @@
+{
+  "users": [
+    {
+      "id": 20571756,
+      "id_str": "20571756",
+      "name": "Satya Nadella",
+      "screen_name": "satyanadella",
+      "location": "",
+      "description": "CEO of Microsoft Corporation",
+      "url": "http://t.co/UMBNtf23la",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UMBNtf23la",
+              "expanded_url": "http://www.microsoft.com/ceo",
+              "display_url": "microsoft.com/ceo",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1613118,
+      "friends_count": 213,
+      "listed_count": 7438,
+      "created_at": "Wed Feb 11 04:45:34 +0000 2009",
+      "favourites_count": 173,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 767,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Feb 28 22:43:38 +0000 2018",
+        "id": 968980039277592600,
+        "id_str": "968980039277592576",
+        "text": "A look at how AI and the cloud are empowering health providers, researchers and clinicians to improve patient care… https://t.co/4c5SZJVJ0j",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/4c5SZJVJ0j",
+              "expanded_url": "https://twitter.com/i/web/status/968980039277592576",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 968849322799345700,
+        "quoted_status_id_str": "968849322799345664",
+        "retweet_count": 128,
+        "favorite_count": 388,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/543839436761358336/iRi_WbYY_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/543839436761358336/iRi_WbYY_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20571756/1448069733",
+      "profile_link_color": "80787A",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 942758418,
+      "id_str": "942758418",
+      "name": "prasanna kumar aduri",
+      "screen_name": "pwrprsemo",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17,
+      "friends_count": 76,
+      "listed_count": 0,
+      "created_at": "Mon Nov 12 03:44:55 +0000 2012",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Feb 25 02:44:10 +0000 2015",
+        "id": 570413918096527360,
+        "id_str": "570413918096527361",
+        "text": "@SujithReddyM @PawanKalyan PSPK rocks!!!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "SujithReddyM",
+              "name": "Sujith Reddy",
+              "id": 561479604,
+              "id_str": "561479604",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "PawanKalyan",
+              "name": "Pawan Kalyan",
+              "id": 2719753171,
+              "id_str": "2719753171",
+              "indices": [
+                14,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 570142430017798140,
+        "in_reply_to_status_id_str": "570142430017798144",
+        "in_reply_to_user_id": 561479604,
+        "in_reply_to_user_id_str": "561479604",
+        "in_reply_to_screen_name": "SujithReddyM",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 2361522643,
+      "id_str": "2361522643",
+      "name": "Tatiana",
+      "screen_name": "neha_licious",
+      "location": "",
+      "description": "💎💎💎",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 38600,
+      "friends_count": 14356,
+      "listed_count": 30,
+      "created_at": "Tue Feb 25 19:01:23 +0000 2014",
+      "favourites_count": 11957,
+      "utc_offset": 25200,
+      "time_zone": "Jakarta",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4490,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Feb 28 18:01:17 +0000 2018",
+        "id": 968908981237248000,
+        "id_str": "968908981237248001",
+        "text": "True friends are those who care without hesitation, remember without limitation, and forgive without explanation. ❤️❤️❤️",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/968221552050282496/WZfLK4M2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/968221552050282496/WZfLK4M2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2361522643/1519676668",
+      "profile_link_color": "FF00DD",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 768146893490655200,
+      "id_str": "768146893490655233",
+      "name": "megha nagabhushan",
+      "screen_name": "megnagabhushan",
+      "location": "Kansas City, MO",
+      "description": "Love Dancing",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3,
+      "friends_count": 30,
+      "listed_count": 0,
+      "created_at": "Tue Aug 23 18:04:25 +0000 2016",
+      "favourites_count": 0,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1,
+      "lang": "en",
+      "status": {
+        "created_at": "Tue May 16 03:42:43 +0000 2017",
+        "id": 864325210882793500,
+        "id_str": "864325210882793473",
+        "text": "Feels so good to be back home :) #homewardbound",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "homewardbound",
+              "indices": [
+                33,
+                47
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/864324377797578752/ETFKmE8v_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/864324377797578752/ETFKmE8v_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/768146893490655233/1494906022",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "Dad, husband, President, citizen.",
+      "url": "https://t.co/93Y27HEnnX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/93Y27HEnnX",
+              "expanded_url": "https://www.obama.org/",
+              "display_url": "obama.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 100462906,
+      "friends_count": 624411,
+      "listed_count": 227418,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 11,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15498,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Feb 28 02:58:41 +0000 2018",
+        "id": 968681836078608400,
+        "id_str": "968681836078608385",
+        "text": "I got my start holding community meetings in Chicago, so it was fun to be home for one tonight. Michelle and I want… https://t.co/1ammpZayJx",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/1ammpZayJx",
+              "expanded_url": "https://twitter.com/i/web/status/968681836078608385",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 968681134480674800,
+        "quoted_status_id_str": "968681134480674817",
+        "retweet_count": 33838,
+        "favorite_count": 208473,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "regular"
+    },
+    {
+      "id": 15846407,
+      "id_str": "15846407",
+      "name": "Ellen DeGeneres",
+      "screen_name": "TheEllenShow",
+      "location": "California",
+      "description": "Comedian, talk show host and ice road trucker. My tweets are real, and they’re spectacular.",
+      "url": "https://t.co/t2QLdtDIfN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/t2QLdtDIfN",
+              "expanded_url": "http://ellentube.com",
+              "display_url": "ellentube.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 76989629,
+      "friends_count": 35918,
+      "listed_count": 107163,
+      "created_at": "Thu Aug 14 03:50:42 +0000 2008",
+      "favourites_count": 850,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 16226,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Mar 01 22:35:53 +0000 2018",
+        "id": 969340474065502200,
+        "id_str": "969340474065502208",
+        "text": "@kerrywashington IMYA (I miss you already)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "kerrywashington",
+              "name": "kerry washington",
+              "id": 205302299,
+              "id_str": "205302299",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 969307429337993200,
+        "in_reply_to_status_id_str": "969307429337993216",
+        "in_reply_to_user_id": 205302299,
+        "in_reply_to_user_id_str": "205302299",
+        "in_reply_to_screen_name": "kerrywashington",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 78,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "3ABEE3",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446411201413541888/uY6CCUHT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446411201413541888/uY6CCUHT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/961307061832228865/abMOp1tC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/961307061832228865/abMOp1tC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15846407/1519675545",
+      "profile_link_color": "3ABEE3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C4C6CC",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "regular"
+    }
+  ],
+  "next_cursor": 0,
+  "next_cursor_str": "0",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0"
+}
