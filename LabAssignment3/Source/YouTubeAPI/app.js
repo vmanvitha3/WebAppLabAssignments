@@ -29,7 +29,8 @@ function onSearchResponse(response) {
     var item = response.items;
     var res = "";
     for(var i=0;i<item.length;i++){
-        var video = '<iframe class="video w100" width="640" height="360" src="//www.youtube.com/embed/'+item[i].id.videoId+'" frameborder="0" allowfullscreen> </iframe>';
+        var video = '<iframe class="video w100" width="640" height="360" src="//www.youtube.com/embed/'+item[i].id.videoId
+            +'" frameborder="0" allowfullscreen> </iframe>';
         console.log(item[i].snippet.title);
         res += "<strong><em>Title: "+item[i].snippet.title+"</em></strong><br>"+video+"<br>";
     }
